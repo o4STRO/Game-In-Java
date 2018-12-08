@@ -1,6 +1,6 @@
 ﻿# BassCube-Version-Lafuria
 
-Lenguaje Java
+Language Java
 
 [Version Portuguese]
 
