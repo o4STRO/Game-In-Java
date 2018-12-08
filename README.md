@@ -1,4 +1,4 @@
-# BassCube-Version-Lafuria
+﻿# BassCube-Version-Lafuria
 
 Lenguaje Java
 
@@ -15,6 +15,9 @@ This is my first game, created because of a college job.
 It was made with the intention of being a 2D game with musical references,
 who ended up having his first version turned to a very famous and funny band called La Furia.
 The song chosen was Manuel - La Furia feat. Mc Keron [https://www.youtube.com/watch?v=11vP3txuQkA].
+
+
+OBS: Localizar no NetBeans as pastas res e a biblioteca de javamp3
 
 
 
