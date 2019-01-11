@@ -5,7 +5,7 @@ Language Java
 [Version Portuguese]
 
 Este é o meu primeiro jogo, criado por causa de um trabalho de faculdade.
-Foi feito com o intuito de ser um jogo 2D com referências musicas,
+Foi feito com o intuito de ser um jogo 2D com referências musicais,
 que acabou tendo sua primeira versão voltada para uma banda muito famosa e engraçada chamada de La Furia
 A música escolhida foi Manuel - La Furia feat. Mc Keron [https://www.youtube.com/watch?v=11vP3txuQkA].
 
