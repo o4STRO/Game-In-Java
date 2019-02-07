@@ -12,7 +12,7 @@ MENU:
 
 FASE 1:
 
-  ![Screenshot](fase1.png)
+  ![Screenshot](Fase1.png)
 
 
 [Version Portuguese]
