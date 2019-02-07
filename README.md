@@ -4,12 +4,12 @@ Language Java
 
 
 Para jogar é necessario navegar até 
-	C:\Users\pedro\BassCube-Version-Lafuria\BassCube\dist 
+	C:\BassCube-Version-Lafuria\BassCube\dist 
 					e executar BassCube.
 
 
 To play you must navigate to
-	C:\Users\pedro\BassCube-Version-Lafuria\BassCube\dist 
+	C:\BassCube-Version-Lafuria\BassCube\dist 
 					and run the Basscube.
 
 
