@@ -2,6 +2,18 @@
 
 Language Java
 
+
+
+
+
+MENU:
+  ![Screenshot](menu1.png)
+
+FASE 1:
+
+  ![Screenshot](fase1.png)
+
+
 [Version Portuguese]
 
 Este é o meu primeiro jogo, criado por causa de um trabalho de faculdade.
