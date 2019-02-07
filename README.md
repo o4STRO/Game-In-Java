@@ -8,12 +8,11 @@ Language Java
 
 MENU:
 
-  ![Screenshot](menu1.png)
+  ![menu1](https://user-images.githubusercontent.com/44451662/52385730-ae8a3c00-2a61-11e9-9897-999be414b739.PNG)
 
 FASE 1:
 
-  ![Screenshot](Fase1.png)
-
+  ![fase1](https://user-images.githubusercontent.com/44451662/52385746-c2ce3900-2a61-11e9-95f3-edaf914465a4.PNG)
 
 [Version Portuguese]
 
