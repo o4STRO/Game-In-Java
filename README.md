@@ -15,11 +15,12 @@ To play you must navigate to
 
 MENU:
 
-  ![menu1](https://user-images.githubusercontent.com/44451662/52385730-ae8a3c00-2a61-11e9-9897-999be414b739.PNG)
+  ![Screenshot](menu1.png)
 
 FASE 1:
 
-  ![fase1](https://user-images.githubusercontent.com/44451662/52385746-c2ce3900-2a61-11e9-95f3-edaf914465a4.PNG)
+  ![Screenshot](fase1.png)
+
 
 [Version Portuguese]
 
