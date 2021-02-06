@@ -1,4 +1,4 @@
-﻿# BassCube-Version-Lafuria
+﻿# BassCube-Beta-Version
 
 Language Java
 
