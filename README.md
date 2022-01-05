@@ -1,4 +1,4 @@
-﻿# BassCube-Beta-Version
+﻿# BassCube [Beta Version]
 
 Language Java
 
